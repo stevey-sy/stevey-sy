@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-<!--
-**stevey-sy/stevey-sy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expectta)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🔧Tech Stack⚙️
+### 🛠Tech Stack🛠
+<div>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 
 Here are some ideas to get you started:
 
@@ -13,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
