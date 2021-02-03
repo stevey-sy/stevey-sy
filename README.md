@@ -1,6 +1,6 @@
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevey-sy)](https://github.com/stevey-sy/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevey-sy&hide=stars)](https://github.com/stevey-sy/github-readme-stats)
 
 ### 🔧Tech Stack⚙️
 ### 🛠Tech Stack🛠
