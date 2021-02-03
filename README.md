@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevey-sy&hide=stars)](https://github.com/stevey-sy/github-readme-stats)
 
 ### 🛠Tech Stack🛠
-<div align=center>
+<div>
     <p>
      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
