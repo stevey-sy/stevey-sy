@@ -4,7 +4,7 @@
 
 ### 🛠Tech Stack🛠
 <div>
-    <p>
+<!--     <p>
     <img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=Android&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
@@ -21,7 +21,30 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     </p>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon&logoColor=white"/> -->
+    
+    
+</div>
+
+<div>
+    <p>
+    <img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=Android&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=Kotlin&logoColor=white"/>
+    </p>
+    <p>
+    <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=PHP&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=Firebase&logoColor=white"/>
+        </p>
+    <p>
+    <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=Node.js&logoColor=white"/>
+    </p>
+    <img src="https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=Ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=Amazon&logoColor=white"/>
     
     
 </div>
