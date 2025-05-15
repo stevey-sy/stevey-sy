@@ -17,4 +17,5 @@ A passionate **Android & Flutter Developer** with 4+ years of experience in craf
 
 ## 📫 Contact
 - Email: sinsy8989@gmail.com
-- Blog: [devlog.seyoungshin.dev]([https://yourblog.com](https://velog.io/@shin_stealer/posts))
+- Blog: [[devlog.seyoungshin.dev]([https://yourblog.com](https://velog.io/@shin_stealer/posts))
+](https://github.com/stevey-sy/stevey-sy/edit/main/README.md)
