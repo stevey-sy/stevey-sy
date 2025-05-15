@@ -22,7 +22,7 @@ Also experienced in:
 **DevOps / Infra:** GitHub Actions, Docker, Ubuntu
 
 ## 📌 Featured Project
-🔹 [OdokOdok 📘](https://github.com/stevey-sy/odok-compose) – An app for tracking reading progress and memorable quotes using modern Android tech
+🔹 [OdokOdok 📘](https://github.com/stevey-sy/bookchibakchi) – An app for tracking reading progress and memorable quotes using modern Android tech
 
 ## 📫 Contact
 - Email: sinsy8989@gmail.com
