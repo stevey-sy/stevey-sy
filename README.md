@@ -15,7 +15,7 @@ Also experienced in:
 - Backend development with **Node.js**, **MySQL**
 
 ## 🚀 Tech Stack
-**Mobile:** Kotlin, Java, Dart, Flutter  
+**Mobile:** Android, Java, Kotlin, Dart, Flutter  
 **Architecture:** MVVM, MVI, Clean Architecture  
 **Backend:** Node.js  
 **Database / Cloud:** Firebase, MySQL, MongoDB  
