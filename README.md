@@ -41,6 +41,9 @@ Also experienced in:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 
+## 📊 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevey-sy&layout=compact&hide=html,css&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📌 Featured Project
 🔹 [OdokOdok 📘](https://github.com/stevey-sy/bookchibakchi) – An app for tracking reading progress and memorable quotes using modern Android tech
 
