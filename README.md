@@ -45,7 +45,7 @@ Also experienced in:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevey-sy&layout=compact&hide=cpp,c,php,hack,Hack&exclude_repo=suit_up_daily&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📌 Featured Project
-🔹 [OdokOdok 📘](https://github.com/stevey-sy/bookchibakchi) – An app for tracking reading progress and memorable quotes using modern Android tech
+🔹 [OdokOdok 📘](https://github.com/stevey-sy/odok-compose) – An app for tracking reading progress and memorable quotes using modern Android tech
 
 ## 📫 Contact
 - Email: sinsy8989@gmail.com
