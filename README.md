@@ -47,9 +47,8 @@ Also experienced in:
 ## 📌 Featured Project
 🔹 [OdokOdok 📘](https://github.com/stevey-sy/odok-compose) – An app for tracking reading progress and memorable quotes using modern Android tech
 
-## Portfolio
-https://github.com/stevey-sy/odok-compose
-[Portfolio](https://github.com/stevey-sy/stevey-sy/blob/main/portfolio_seyoung_shin.pdf)
+## 📌 Portfolio
+🔹 [Portfolio](https://github.com/stevey-sy/stevey-sy/blob/main/portfolio_seyoung_shin.pdf)
 
 ## 📫 Contact
 - Email: sinsy8989@gmail.com
