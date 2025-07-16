@@ -49,4 +49,3 @@ Also experienced in:
 
 ## 📫 Contact
 - Email: sinsy8989@gmail.com
-- Blog: [Velog @shin_stealer](https://velog.io/@shin_stealer/posts)
